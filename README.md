@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Rahul Sharan</h1>
-<h3 align="center">3.5+ Years of IT Experience as an IT infrastructure Engineer and DevOps Engineer. Around 2+ Years of Relevant Experience as DevOps Engineer in application configurations, Code Compilation.</h3>
+<h3 align="center">An enthusiastic DevOps Engineer with over 3.5+ years of practical experience across a range of DevOps tools. Proficient in enhancing deployment processes through adept support, automation, and optimization, while harnessing the power of configuration management, continuous integration and continuous deployment (CI/CD), and other essential DevOps practices.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuls512&label=Profile%20views&color=0e75b6&style=flat" alt="rahuls512" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahuls512" alt="rahuls512" /></a> </p>
 
-- 💬 Ask me about **AWS,Azure,GitHub-Action,Docker, K8S, Terraform,Terratest,Packer,Ansible**
+- 💬 Ask me about **Linux Azure Docker Kubernetes AWS Jenkins/GitHub-Action Terraform Python**
 
 - 📫 How to reach me **rahulsharan512@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://hashnode.com/https://hashnode.com/@rahuls512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@rahuls512" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@rahulsharan512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@rahulsharan512" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
