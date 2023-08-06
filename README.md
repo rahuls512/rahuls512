@@ -1,18 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+ <img src="https://www.yash.com/wp-content/uploads/2023/04/blog-main-banner-devops.png" alt="DevOps Blog Banner">
+</body>
+</html>
+
 <h1 align="center">Hi 👋, I'm Rahul Sharan</h1>
-<h3 align="center">An enthusiastic DevOps Engineer with over 3.5+ years of practical experience across a range of DevOps tools. Proficient in enhancing deployment processes through adept support, automation, and optimization, while harnessing the power of configuration management, continuous integration and continuous deployment (CI/CD), and other essential DevOps practices.</h3>
+<h3 align="center">An enthusiastic DevOps Engineer with over 2.5+ years of practical experience across a range of DevOps tools. Proficient in enhancing deployment processes through adept support, automation, and optimization, while harnessing the power of configuration management, continuous integration and continuous deployment (CI/CD), and other essential DevOps practices.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuls512&label=Profile%20views&color=0e75b6&style=flat" alt="rahuls512" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahuls512" alt="rahuls512" /></a> </p>
 
-- 💬 Ask me about **Linux Azure Docker Kubernetes AWS Jenkins/GitHub-Action Terraform Python**
+- 💬 Ask me about **Linux Azure Docker Kubernetes AWS Jenkins/GitHub-Action Terraform Packer Python**
 
 - 📫 How to reach me **rahulsharan512@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://hashnode.com/https://hashnode.com/@rahuls512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@rahuls512" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@rahulsharan512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@rahulsharan512" height="30" width="40" /></a>
+<a href="https://hashnode.com/@rahuls512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rahuls512" height="30" width="40" /></a>
+<a href="https://medium.com/@rahulsharan512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rahulsharan512" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
