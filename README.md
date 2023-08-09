@@ -14,13 +14,14 @@
 
 
 
+
 - 💬 Ask me about **Linux Azure Docker Kubernetes AWS Jenkins/GitHub-Action Terraform Packer Python**
 
 - 📫 How to reach me **rahulsharan512@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://hashnode.com/@rahuls512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rahuls512" height="30" width="40" /></a>
+
 <a href="https://medium.com/@rahulsharan512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rahulsharan512" height="30" width="40" /></a>
 </p>
 
