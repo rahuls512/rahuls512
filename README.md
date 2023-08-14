@@ -2,25 +2,19 @@
 <p align="center">
 <img align="center" src="https://github.com/cmakkaya/cmakkaya/blob/main/DevOps-CI-CD.gif" width="300"/>
 </p>
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-<body>
- <img src="https://www.yash.com/wp-content/uploads/2023/04/blog-main-banner-devops.png" alt="DevOps Blog Banner">
-</body>
-</html>
+
 
 # Hi<img src = "https://github.com/cmakkaya/cmakkaya/blob/main/wavehand.gif" width = "40" align="center">, I'm Rahul Sharan<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
 <h3 align="center">An enthusiastic DevOps Engineer with over 2.5+ years of practical experience across a range of DevOps tools. Proficient in enhancing deployment processes through adept support, automation, and optimization, while harnessing the power of configuration management, continuous integration and continuous deployment (CI/CD), and other essential DevOps practices.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuls512&label=Profile%20views&color=0e75b6&style=flat" alt="rahuls512" /> </p>
 
-<img align="right" src="https://github.com/cmakkaya/cmakkaya/blob/main/DevOpsMan.gif" width="270"/>
 
 - 💬 Ask me about **Linux Azure Docker Kubernetes AWS Jenkins/GitHub-Action Terraform Packer Python**
 
 - 📫 How to reach me **rahulsharan512@gmail.com**
+
+  <img align="right" src="https://github.com/cmakkaya/cmakkaya/blob/main/DevOpsMan.gif" width="270"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
