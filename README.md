@@ -1,3 +1,7 @@
+## <p>
+<p align="center">
+<img align="center" src="https://github.com/cmakkaya/cmakkaya/blob/main/DevOps-CI-CD.gif" width="300"/>
+</p>
 <!DOCTYPE html>
 <html>
 <head>
@@ -7,13 +11,12 @@
 </body>
 </html>
 
-<h1 align="center">Hi 👋, I'm Rahul Sharan</h1>
+# Hi<img src = "https://github.com/cmakkaya/cmakkaya/blob/main/wavehand.gif" width = "40" align="center">, I'm Rahul Sharan<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
 <h3 align="center">An enthusiastic DevOps Engineer with over 2.5+ years of practical experience across a range of DevOps tools. Proficient in enhancing deployment processes through adept support, automation, and optimization, while harnessing the power of configuration management, continuous integration and continuous deployment (CI/CD), and other essential DevOps practices.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuls512&label=Profile%20views&color=0e75b6&style=flat" alt="rahuls512" /> </p>
 
-
-
+<img align="right" src="https://github.com/cmakkaya/cmakkaya/blob/main/DevOpsMan.gif" width="270"/>
 
 - 💬 Ask me about **Linux Azure Docker Kubernetes AWS Jenkins/GitHub-Action Terraform Packer Python**
 
@@ -32,4 +35,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahuls512&show_icons=true&locale=en" alt="rahuls512" /></p>
 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahuls512&" alt="rahuls512" /></p>
+
+
+ 🙏Thank you so much for visiting my profile—the feedback you gave means a lot to me and encourages me to do more.
