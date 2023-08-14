@@ -22,7 +22,7 @@
 <a href="https://medium.com/@rahulsharan512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rahulsharan512" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools💻:</h3>
 <p>
  <a href="#" target="_blank"> <img src="https://github.com/cmakkaya/cmakkaya/blob/main/devops.icon.ico" alt="DevOps" width="100"  
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vs-code" height="48"/> </a>  
@@ -54,13 +54,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahuls512&" alt="rahuls512" /></p>
 
-[ <p align="left"> ![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dcmakkaya)](https://github.com/cmakkaya) <img alt="Coding" width="90" height="19" src="https://komarev.com/ghpvc/?username=cmakkaya&label=Profile%20views&color=129e00&style=plastic" alt="cumhur" /> 
-![](https://img.shields.io/github/commit-activity/m/ik-workshop/workshop-blueprint)
-![](https://img.shields.io/github/last-commit/ik-workshop/workshop-blueprint)
-[![](https://img.shields.io/github/license/ivankatliarchuk/.github)](https://github.com/ivankatliarchuk/.github/LICENCE)
-[![](https://img.shields.io/github/languages/code-size/ik-workshop/workshop-blueprint)](https://github.com/ik-workshop/workshop-blueprint)
-[![](https://img.shields.io/github/repo-size/ik-workshop/workshop-blueprint)](https://github.com/ik-workshop/workshop-blueprint)
-![](https://img.shields.io/github/languages/top/ik-workshop/workshop-blueprint?color=green&logo=markdown&logoColor=blue)
- </p> 
+
 
  🙏Thank you so much for visiting my profile—the feedback you gave means a lot to me and encourages me to do more.
