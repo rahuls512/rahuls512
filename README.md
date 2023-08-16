@@ -39,15 +39,18 @@
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="Terraform" height="48"/> 
 </a> 
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/packerio/packerio-ar21.svg" alt="Packer"  height="48"/> </a> 
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python"  height="48"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.png" alt="Ansible" height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="Jira"  height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" width="68" height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css" width="70" height="48"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python"  height="48"/> </a> 
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" height="48"/> </a>
+ <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="node js" height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="Slack" height="48"/> </a>
  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="Prometheus" height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" alt="Grafana" height="48"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/newrelic/newrelic-ar21.svg" alt="Grafana" height="48"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/bmc/bmc-ar21.svg" alt="BMC Remedy" height="48"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahuls512&show_icons=true&locale=en&layout=compact" alt="rahuls512" /></p>
