@@ -1,6 +1,6 @@
 ## <p>
 <p align="center">
-<img align="center" src="https://github.com/cmakkaya/cmakkaya/blob/main/DevOps-CI-CD.gif" width="300"/>
+<img align="center" src="https://github.com/rahuls512/rahuls512/blob/main/DevOps-CI-CD.gif" width="300"/>
 </p>
 
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuls512&label=Profile%20views&color=0e75b6&style=flat" alt="rahuls512" /> </p>
 
- <img align="right" src="https://github.com/cmakkaya/cmakkaya/blob/main/DevOpsMan.gif" width="270"/>
+ <img align="right" src="https://github.com/rahuls512/rahuls512/blob/main/DevOpsMan.gif" width="270"/>
  
 - 💬 Ask me about **Linux Azure Docker Kubernetes AWS Jenkins/GitHub-Action Terraform Packer Python**
 
