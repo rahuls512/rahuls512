@@ -3,7 +3,7 @@
 <img align="center" src="https://github.com/rahuls512/rahuls512/blob/main/DevOps-CI-CD.gif" width="300"/>
 </p>
 
-# Hi<img src = "https://github.com/rahuls512/rahuls512/blob/main/wavehand.gif" width = "40" align="center">, I'm Rahul Sharan 
+# Hi<img src = "https://github.com/rahuls512/rahuls512/blob/main/wavehand.gif" width = "35" align="center">, I'm Rahul Sharan 
 
 <h3 align="center">An enthusiastic DevOps Engineer with over 2.5+ years of practical experience across a range of DevOps tools. Proficient in enhancing deployment processes through adept support, automation, and optimization, while harnessing the power of configuration management, continuous integration and continuous deployment (CI/CD), and other essential DevOps practices.</h3>
 
