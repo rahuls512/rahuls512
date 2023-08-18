@@ -7,9 +7,9 @@
 # Hi<img src = "https://github.com/rahuls512/rahuls512/blob/main/wavehand.gif" width = "40" align="center">, I'm Rahul Sharan<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
 <h3 align="center">An enthusiastic DevOps Engineer with over 2.5+ years of practical experience across a range of DevOps tools. Proficient in enhancing deployment processes through adept support, automation, and optimization, while harnessing the power of configuration management, continuous integration and continuous deployment (CI/CD), and other essential DevOps practices.</h3>
 
-<p align="left"> <img align="right" alt="Scripting" width="400"src="https://komarev.com/ghpvc/?username=rahuls512&label=Profile%20views&color=0e75b6&style=flat" alt="rahuls512" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuls512&label=Profile%20views&color=0e75b6&style=flat" alt="rahuls512" /> </p>
 
- <img align="right" src="https://github.com/rahuls512/rahuls512/blob/main/DevOpsMan.gif" width="270"/>
+ <img align="right" alt="Scripting" width="400" src="https://github.com/rahuls512/rahuls512/blob/main/DevOpsMan.gif" width="270"/>
  
 - 💬 Ask me about **Linux Azure Docker Kubernetes AWS Jenkins/GitHub-Action Terraform Packer Python**
 
