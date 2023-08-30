@@ -5,7 +5,7 @@
 
 # Hi<img src = "https://github.com/rahuls512/rahuls512/blob/main/wavehand.gif" width = "35" align="center">, I'm Rahul Sharan 
 
-<h3 align="center">An enthusiastic DevOps Engineer with over 2.5+ years of practical experience across a range of DevOps tools. Proficient in enhancing deployment processes through adept support, automation, and optimization, while harnessing the power of configuration management, continuous integration and continuous deployment (CI/CD), and other essential DevOps practices.</h3>
+<h3 align="center">Welcome to my GitHub Profile! I'm passionate about DevSecOps and I thoroughly enjoy learning about it.</h3>
 
 <img align="right" alt="Scripting" width="400" src="https://github.com/rahuls512/rahuls512/blob/main/DevOpsMan.gif" width="270"/>
  
