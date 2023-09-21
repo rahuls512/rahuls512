@@ -14,12 +14,8 @@
 
 - 💬 Ask me about **Linux Azure Docker Kubernetes AWS Jenkins/GitHub-Action Terraform Packer Python**
 
-- 📫 How to reach me
+- 📫 How to reach me: **rahulsharan512@gmail.com**
   
-  **rahulsharan512@gmail.com**
-  
-  **https://www.linkedin.com/in/rahul-sharan-7019bb28b/**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
