@@ -16,6 +16,7 @@ Focused on hands-on practice in Ethical Hacking, Linux, Cloud Security, and DevS
 
 ---
 
+
 ### 👨‍💻 About Me
 - 🔐 Cybersecurity & Ethical Hacking Learner  
 - 💻 Strong interest in **Linux, Networking & System Security**  
@@ -81,9 +82,6 @@ Focused on hands-on practice in Ethical Hacking, Linux, Cloud Security, and DevS
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahuls512&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rahuls512&theme=tokyonight" />
