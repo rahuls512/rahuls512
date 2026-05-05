@@ -3,7 +3,7 @@
   width="410" alt="Anonymous Hacker"/>
 </p>
 
-# Hi <img src="https://github.com/rahuls512/rahuls512/blob/main/wavehand.gif" width="35" align="center">, I'm Rahul Sharan 
+# Hi <img src="https://github.com/rahuls512/rahuls512/blob/main/wavehand.gif" width="25" align="center">, I'm Rahul Sharan 
 
 <h3 align="center">Cybersecurity Enthusiast | Ethical Hacking Learner | DevSecOps Explorer</h3>
 
