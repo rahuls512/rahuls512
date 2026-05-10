@@ -75,8 +75,8 @@
 
 ## 💬 Ask Me About
 
-- 🐧 Linux hardening & Bash/Python scripting
-- ☁️ AWS & Azure cloud security posture
+- 🐧 Linux & Bash/Python scripting
+- ☁️ AWS & Azure cloud security
 - 🔄 DevOps pipelines & DevSecOps practices
 - 🕵️ Ethical Hacking & penetration testing
 - 🤖 Generative AI applied to cybersecurity workflows
@@ -86,8 +86,8 @@
 ## 🚀 Current Goals
 
 - [ ] Build hands-on home cybersecurity lab environments
-- [ ] Complete real-world penetration testing scenarios (HackTheBox / TryHackMe)
-- [ ] Master advanced cloud security & DevSecOps pipelines
+- [ ] Complete real-world penetration testing scenarios
+- [ ] Advanced cloud security & DevSecOps pipelines
 - [ ] Contribute to security-focused open-source projects
 - [ ] Publish detailed writeups on Medium
 
