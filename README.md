@@ -5,7 +5,7 @@
 
 # Hi <img src="https://github.com/rahuls512/rahuls512/blob/main/wavehand.gif" width="25" align="center">, I'm Rahul Sharan 
 
-<h3 align="center">Cybersecurity Enthusiast | Ethical Hacking Learner | DevSecOps Explorer</h3>
+<h3 align="center">Cybersecurity | Ethical Hacking | DevSecOps | DevOps | Generative AI Integration</h3>
 
 <p align="center">
 Passionate about building secure systems and continuously learning in the field of Cybersecurity.  
@@ -18,19 +18,18 @@ Focused on hands-on practice in Ethical Hacking, Linux, Cloud Security, and DevS
 
 
 ### 👨‍💻 About Me
-- 🔐 Cybersecurity & Ethical Hacking Learner  
+- 🔐 Cybersecurity & Ethical Hacking with Gen AI Integration
 - 💻 Strong interest in **Linux, Networking & System Security**  
 - ☁️ Exploring **AWS & Azure Cloud Security**  
-- ⚙️ Learning **DevSecOps tools & automation**  
 - 🧠 Always curious about vulnerabilities & security practices  
 
 ---
 
 ### 💬 Ask Me About
-- Linux & Bash Scripting  
-- AWS & Azure Basics  
-- DevSecOps Fundamentals  
-- Beginner Ethical Hacking Concepts  
+- Linux & Python Scripting 
+- AWS & Azure Cloud
+- DevOps & DevSecOps 
+- Cybersecurity & Ethical Hacking with Gen AI Integration
 
 ---
 
