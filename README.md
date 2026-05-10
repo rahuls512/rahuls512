@@ -8,7 +8,7 @@
 <h3 align="center">Cybersecurity | Ethical Hacking | DevSecOps | DevOps | Generative AI Integration</h3>
 
 <p align="center">
-Passionate about building secure systems and continuously learning in the field of Cybersecurity.  
+Passionate about building secure systems & Network and continuously learning in the field of Cybersecurity with Gen AI Integration.
 Focused on hands-on practice in Ethical Hacking, Linux, Cloud Security, and DevSecOps.
 </p>
 
