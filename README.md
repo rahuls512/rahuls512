@@ -19,8 +19,8 @@ Focused on hands-on practice in Ethical Hacking, Linux, Cloud Security, and DevS
 
 ### 👨‍💻 About Me
 - 🔐 Cybersecurity & Ethical Hacking with Gen AI Integration
-- 💻 Strong interest in **Linux, Networking & System Security**  
-- ☁️ Exploring **AWS & Azure Cloud Security**  
+- 💻  **Linux, Networking & System Security**  
+- ☁️ **AWS & Azure Cloud Security**  
 - 🧠 Always curious about vulnerabilities & security practices  
 
 ---
