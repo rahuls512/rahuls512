@@ -1,7 +1,7 @@
 <!-- ========================= TOP BANNER ========================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi+there!+I'm+Rahul+Sharan+👋;Cybersecurity+%7C+Ethical+Hacking;Dark+Web+Analysis+%7C+OSINT;DevSecOps+%7C+Cloud+Security;Generative+AI+%7C+Cybersecurity;Always+Learning+🔐" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi+there!+I'm+Rahul+S+👋;Cybersecurity+%7C+Ethical+Hacking;Dark+Web+Analysis+%7C+OSINT;DevSecOps+%7C+Cloud+Security;Generative+AI+%7C+Cybersecurity;Always+Learning+🔐" alt="Typing SVG" />
 </p>
 
 <p align="center">
