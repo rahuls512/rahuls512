@@ -1,11 +1,13 @@
-<!-- ========================= TOP BANNER ========================= -->
+<!-- ========================= TYPING INTRO ========================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi+there!+I'm+Rahul+S+👋;Cybersecurity+%7C+Ethical+Hacking;Dark+Web+Analysis+%7C+OSINT;DevSecOps+%7C+Cloud+Security;Generative+AI+%7C+Cybersecurity;Always+Learning+🔐" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi+there!+I'm+Rahul+Sharan+%F0%9F%91%8B;Cybersecurity+%7C+Ethical+Hacking;OSINT+%7C+Dark+Web+Intelligence;Threat+Analysis+%7C+Digital+Investigation;Cloud+Security+%7C+DevSecOps;Generative+AI+%7C+Cybersecurity;Always+Learning+%7C+Always+Securing+%F0%9F%94%90" alt="Typing SVG"/>
 </p>
 
+<!-- ========================= PROFILE BANNER ========================= -->
+
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" alt="Ethical Hacker GIF"/>
+  <img src="https://github.com/rahuls512/rahuls512/blob/main/Cybersecurity%20Hacker%20Neon%20Banner.png"/>
 </p>
 
 
