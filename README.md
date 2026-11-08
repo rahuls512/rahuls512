@@ -7,7 +7,7 @@
 <!-- ========================= PROFILE BANNER ========================= -->
 
 <p align="center">
-  <img src="https://github.com/rahuls512/rahuls512/blob/main/Cybersecurity%20Hacker%20Operations%20Banner.png"/>
+  <img src="https://www.pngmart.com/files/7/Cyber-Security-PNG-Pic.png"/>
 </p>
 
 
