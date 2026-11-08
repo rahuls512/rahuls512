@@ -1,21 +1,22 @@
 <!-- ========================= TYPING INTRO ========================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi+there!+I'm+Rahul+Sharan+%F0%9F%91%8B;Cybersecurity+%7C+Ethical+Hacking;OSINT+%7C+Dark+Web+Intelligence;Threat+Analysis+%7C+Digital+Investigation;Cloud+Security+%7C+DevSecOps;Generative+AI+%7C+Cybersecurity;Always+Learning+%7C+Always+Securing+%F0%9F%94%90" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2800&pause=700&color=00B8D4&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Rahul+Sharan+%F0%9F%91%8B;Cybersecurity+%7C+Ethical+Hacking;AI+Security+%7C+Generative+AI;AI+Security+%7C+LLM+Security;OSINT+%7C+Dark+Web+Intelligence;Threat+Analysis+%7C+Digital+Investigation;Cloud+Security+%7C+DevSecOps;Always+Learning+%7C+Always+Securing+%F0%9F%94%90" alt="Typing SVG"/>
 </p>
+
 
 <!-- ========================= PROFILE BANNER ========================= -->
 
 <p align="center">
-  <img src="https://www.pngmart.com/files/7/Cyber-Security-PNG-Pic.png"/>
+  <img src="https://sm.ign.com/t/ign_in/news/n/naruto-liv/naruto-live-action-movie-in-the-works-with-shang-chi-directo_rw93.1280.jpg"/>
 </p>
 
 
 # Hi, I'm Rahul Sharan 👋
 
-### 🔐 Cybersecurity Enthusiast | CEH v12 Certified | Ethical Hacking | OSINT | Dark Web Intelligence | Cloud Security | DevSecOps
+### 🔐 Cybersecurity Enthusiast | CEH v12 Certified | Ethical Hacking | OSINT | Dark Web Intelligence | Cloud Security | DevSecOps | AI Security
 
-Passionate about cybersecurity, ethical hacking, threat intelligence, OSINT investigations, cloud security, and security automation. Exploring practical security techniques to identify vulnerabilities, analyze threats, secure infrastructure, and strengthen digital environments.
+Passionate about cybersecurity, ethical hacking, threat intelligence, OSINT investigations, cloud security, and security automation. Exploring practical security techniques to identify vulnerabilities, analyze threats, secure infrastructure,AI Security and strengthen digital environments.
 
 ---
 
@@ -28,7 +29,7 @@ Passionate about cybersecurity, ethical hacking, threat intelligence, OSINT inve
 - ☁️ Exploring AWS & Microsoft Azure Cloud Security.
 - 🛡️ Practicing DevSecOps and integrating security into CI/CD pipelines.
 - 🔍 Working with vulnerability assessment and penetration testing tools.
-- 🤖 Exploring Generative AI for cybersecurity automation and analysis.
+- 🤖 Exploring Generative AI for cybersecurity automation and analysis and AI Security.
 - 📚 CEH v12 Certified – EC-Council.
 - 📝 Sharing cybersecurity tutorials, practical labs and technical knowledge on [Medium](https://medium.com/@rahulsharan512).
 
